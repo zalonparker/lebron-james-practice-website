@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    background-color: #333;
+    padding: 20px;
+    color: black;
+    background-image: url(img/lebron-james-marcus-price.jpeg);
+    background-size: contain;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li a {
+    color: black
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+section h2 {
+    margin-top: 0;
+}
+
+footer {
+    background-color: #333;
+    padding: 20px;
+    color: #fff;
+    text-align: center;
+}
