@@ -2,29 +2,38 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     margin: 0;
     padding: 0;
+    background-image: url(img/big-lebron-image-has-downbeat-feel-41a8d7cf7e0d7426.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
 }
+
 
 header {
     text-align: center;
-    background-color: #333;
-    padding: 20px;
+    background-color: black;
+    padding: 25px;
     color: black;
-    background-image: url(img/lebron-james-marcus-price.jpeg);
+    background-image: url(img/33660a3ea08237902e81b1304495f2b7.jpeg);
     background-size: contain;
+    
 }
 
 header h1 {
     margin: 0;
+    color: white;
+    
 }
 
 nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    text-align: justify;
 }
 
 nav ul li a {
-    color: black
+    color: white; 
     text-decoration: none;
 }
 
@@ -34,12 +43,24 @@ main {
 }
 
 section {
-    margin-bottom: 20px;
+    margin-bottom: 100px;
+    color: #ffff
+    
 }
 
+
 section h2 {
-    margin-top: 0;
+    margin-top: 10px;
+    padding: 5px;
+    color: white;
+    
 }
+
+.image {
+    width: 250px;
+    margin-right: 200px;
+}
+
 
 footer {
     background-color: #333;
